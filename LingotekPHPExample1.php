@@ -1,4 +1,6 @@
 
+<!-- see this in action at http://exdev3.com/Lingotek/LingotekPHPExample1.php -->
+
 <html>
  <head>
   <title>Get all the Languages from Lingotek JSON</title>
